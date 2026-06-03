@@ -497,17 +497,17 @@ This project is licensed under the MIT License.
 
 # 👩‍💻 Author
 
-### Fenitha T K
+### Fanitha T K
 
 **B.Tech Computer Science Engineering**
 
 Aspiring Data Scientist | AI Enthusiast | Machine Learning Practitioner | NLP Learner
 
-📧 Email: your-email@example.com
+📧 Email: fenithakabeer@gmail.com
 
-🔗 LinkedIn: your-linkedin-profile
+🔗 LinkedIn: https://www.linkedin.com/in/fanitha/
 
-🐙 GitHub: your-github-profile
+🐙 GitHub: https://github.com/fenifenitha/
 
 ---
 
